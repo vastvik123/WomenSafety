@@ -1,0 +1,1 @@
+mongodb+srv://admin-aditya:<password>@learning-sqrmr.mongodb.net/test?retryWrites=true&w=majority
